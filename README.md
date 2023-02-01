@@ -22,7 +22,13 @@ Filter Multi Products pages Category
 ![E-Comm-Filterprodcts-2](https://user-images.githubusercontent.com/94528908/215939654-478ce9b0-2980-4416-b18f-ad59de6d8c68.jpg)
 ![E-Comm-Filterprodcts-3](https://user-images.githubusercontent.com/94528908/215939656-c515cfb6-ae05-454e-80be-965f5cbb6781.jpg)
 
-payment Gateway Stripe
+Payment Gateway Stripe
 ![E-Comm-Cart-1](https://user-images.githubusercontent.com/94528908/215939867-c64a6e29-2d73-48bb-87d6-4d45013f90fd.jpg)
 ![E-Comm-StripePayment-1](https://user-images.githubusercontent.com/94528908/215939896-651efedf-499d-4a46-bf3c-67b8e26ecd60.jpg)
 ![E-Comm-StripePayment-2](https://user-images.githubusercontent.com/94528908/215939901-fa7f93b1-bf31-4b5f-af96-27e747e7b8b5.jpg)
+
+Order status and payment info
+![Stripe  Test -1](https://user-images.githubusercontent.com/94528908/215940032-7acbd5a8-f028-43be-962a-1328ae72f350.jpg)
+![orderDetails-1](https://user-images.githubusercontent.com/94528908/215940178-52c76989-ad78-4667-91c0-3ee9602e8a77.jpg)
+
+Real-Time Inventory management
