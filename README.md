@@ -32,3 +32,6 @@ Order status and payment info
 ![orderDetails-1](https://user-images.githubusercontent.com/94528908/215940178-52c76989-ad78-4667-91c0-3ee9602e8a77.jpg)
 
 Real-Time Inventory management
+![Content Managerp products-1](https://user-images.githubusercontent.com/94528908/215941136-39cfcab8-6da7-4d58-a98f-963cdd26441c.jpg)
+![Content Managerp products-2](https://user-images.githubusercontent.com/94528908/215941159-44cf0ea9-12ef-4349-bd75-f6593e4fcd07.jpg)
+![Content Manager Cat-1](https://user-images.githubusercontent.com/94528908/215941207-18ef47ca-77ab-4cb1-a946-9d73eeeecf98.jpg)
